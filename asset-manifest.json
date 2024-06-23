@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MusicVk/static/css/main.c98f0317.css",
+    "main.js": "/MusicVk/static/js/main.627f01b3.js",
+    "static/js/453.1935cbe6.chunk.js": "/MusicVk/static/js/453.1935cbe6.chunk.js",
+    "static/media/Slava_KPSS_-_Solnce_mjortvykh_49979309.mp3": "/MusicVk/static/media/Slava_KPSS_-_Solnce_mjortvykh_49979309.9d7e66b053f63527987f.mp3",
+    "static/media/Pictute_dark.svg": "/MusicVk/static/media/Pictute_dark.b2549f6c965a2f7c473bda34d4b0c7d0.svg",
+    "static/media/Picture.svg": "/MusicVk/static/media/Picture.733fc20d74dfd133083bbe87b6f36153.svg",
+    "index.html": "/MusicVk/index.html",
+    "main.c98f0317.css.map": "/MusicVk/static/css/main.c98f0317.css.map",
+    "main.627f01b3.js.map": "/MusicVk/static/js/main.627f01b3.js.map",
+    "453.1935cbe6.chunk.js.map": "/MusicVk/static/js/453.1935cbe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98f0317.css",
+    "static/js/main.627f01b3.js"
+  ]
+}
